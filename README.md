@@ -1,5 +1,4 @@
-# pageshield
-* Note, there are some actual malicious code, so only use on test sites, not anything in production or important
+#reference taken from HUmair Ahmad Cloudflare
 
 You can setup your own environment.
 I use Python and Selenium library.
